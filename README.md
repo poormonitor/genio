@@ -15,8 +15,8 @@ pip install -r requirements.txt
 ```
 
 在运行前，需在ran.py中配置生成随机输入的代码，这里提供几种参考：
-eg. 1
 
+eg. 1
 ```python
 import random
 

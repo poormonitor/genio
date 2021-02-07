@@ -58,4 +58,4 @@ python main.py
 
 ## LICENSE
 
-[GPL v3][3]
+[GPL v3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)

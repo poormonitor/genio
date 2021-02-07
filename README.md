@@ -12,9 +12,10 @@
 
 直接从releases中下载exe版本（仅限输入random int），或clone代码使用Python 3执行。
 
-`pip install -r requirements.txt`
-
-`python main.py`
+```shell
+pip install -r requirements.txt
+python main.py
+```
 
 ### Params
 

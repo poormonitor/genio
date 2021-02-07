@@ -58,8 +58,4 @@ python main.py
 
 ## LICENSE
 
-<<<<<<< HEAD
 [GPL v3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
-=======
-[GPL v3][3]
->>>>>>> origin/master

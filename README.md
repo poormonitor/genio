@@ -1,5 +1,4 @@
 ## Introduction
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpoormonitor%2Fgenio.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpoormonitor%2Fgenio?ref=badge_shield)
 
 
 年轻人，是否曾因为评测数据而苦恼？
